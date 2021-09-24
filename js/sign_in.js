@@ -1,4 +1,4 @@
-const url = "http://localhost:500/api/account"
+const url = "https://mightybrains.herokuapp.com/"
 async function postaccount(name,course,email,number){
 const data = await fetch(url,{
     method: "POST",
