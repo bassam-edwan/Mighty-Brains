@@ -1,0 +1,50 @@
+body{
+    
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between; 
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+}
+.nav-element:hover{
+background-color: white;
+}
+.nav-element a:hover{
+    color: blue;
+}
+
+.nav2{
+    display: flex;
+}
+.nav3{
+    display: flex;
+}
+.sp{
+    margin-left: 10px;
+}
+.sp2{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.contactus{
+background-color: black;
+color: white;
+display: flex;
+justify-content: space-between;
+}
+.fix{
+    margin-left: 300px;
+}
+.fix2{
+    margin-right: 300px;
+}

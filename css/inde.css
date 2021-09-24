@@ -1,0 +1,14 @@
+.di1{
+    display: flex;
+    justify-content: space-between;
+}
+.d2{
+   margin-left: 250px;
+   margin-right: 250px;
+   background-color: darkgrey;
+   border: 2px solid black;
+   border-radius: 10px;
+}
+.d2 li{
+    list-style-type: none;
+}
