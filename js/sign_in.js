@@ -1,4 +1,4 @@
-const url = "https://mightybrains.herokuapp.com/"
+const url = "https://mightybrain.herokuapp.com/api/account"
 async function postaccount(name,course,email,number){
 const data = await fetch(url,{
     method: "POST",
